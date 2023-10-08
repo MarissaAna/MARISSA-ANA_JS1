@@ -1,0 +1,59 @@
+1. IF
+Mari bermain angka BOOM.
+Jika angka yang kamu masukkan bukan angka BOOM, maka kamu menang.
+Jika angka yang kamu masukkan adalah angka BOOM, maka kamu kalah.
+
+2. IF ELSE
+Pak Tarno memiliki ternak ayam yang sangat banyak.
+Ia kebingungan apakah telur ayamnya akan menetas hari ini atau tidak.
+Bantu Pak Tarno menemukan jawabannya dengan menggunakan program ini.
+Masukkan total hari telur yang sudah dierami.
+Jika total hari dierami adalah bilangan kelipatan 2, maka telur akan menetas dihari itu.
+Namun, jika total hari dierami adalah bilangan kelipatan 3, maka telur akan menetas dihari itu dan ayam yang menetas adalah kembar.
+Selain itu, telur tidak menetas.
+
+3. NESTED IF 
+Natal sudah mau dekat! Ayo cek apakah wishlist hadiah kamu akan dikabulkan Santa Claus?
+Minta hadiah sebanyak-banyaknya, karena jika panjang karakter wishlist kamu lebih dari 10, hadiah kamu akan dikirim!
+Tapi... jika total panjang karakter wishlistmu adalah ganjil, hadiah akan dikirim di hari total panjang karaktermu.
+Namun jika total panjangnya adalah genap, hadiah akan dikirim besok!
+Selain itu, hadiah tidak akan dikirim. Maka dari itu, ayo list sebanyak-banyaknya!
+
+4. SWITCH CASE 
+Mari bermain tebak WARNA!
+Tebak warna merah dan biru jika dicampur akan jadi warna apa?
+Jika jawabanmu benar, outputnya adalah benar.
+Jika jawabanmu adalah hasil percampuran warna merah dengan warna lain, maka output akan menampilkan kamu salah, dan keterangan.
+Jika jawabanmu adalah bukan hasil percampuran warna merah dengan warna lain, maka output menampilkan kamu harus belajar pencampuran warna.
+
+5. FOR STATEMENT 
+Mari berhitung!
+Adit mendapat tugas matematika dari sekolahnya untuk menghitung jumlah bilangan ganjil pada angka tertentu.
+Setelah Adit mengerjakan dan mengecek kembali, ternyata banyak hitungan manualnya yang salah.
+Bantu Adit menghitung cepat dan tepat menggunakan program ini!
+Angka yang dimasukkan akan terus melakukan looping dari 0 sampai angka yang dimasukkan.
+Looping tersebut melakukan pengecekan angka ganjil yang ada dan menyimpan ke dalam variable, kemudian dijumlahkan.
+Hasil penjumlahan bilangan ganjil akan tampil pada console log.
+
+6. WHILE
+Caca ingin membeli sepatu di luar negeri.
+Namun Caca bingung kenapa ukuran sepatu yang harusnya ia kenakan, terlihat lebih besar dibanding ukuran di Indonesia.
+Bantu Caca menemukan ukuran sepatu yang pas.
+Jika ukuran sepatu Caca lebih dari sama dengan 42, maka Caca harus mengambil 2 ukuran dibawahnya.
+Jika tidak, ukuran sepatu Caca tetap.
+
+7. DO WHILE
+Kamu pecinta hewan?
+Ayo ikuti event "Love Pet" hari ini!
+Masukkan jumlah hewan yang kamu punya!
+Di event ini, kamu akan mendapat 1 hewan peliharaan tanpa terkecuali.
+Jika total peliharaanmu ditambah hadiah yang kamu dapat di event berjumlah bilangan yang habis dibagi 5, maka kamu akan mendapat 1 hewan peliharaan lagi.
+
+8. FUNCTION
+Kamu dan teman-temanmu mengorder pizza di Go-Jek.
+Ternyata saat pizza datang, kamu dan teman-teman sedang berada di Indomaret.
+Pizza diterima oleh kakakku yang rakus itu.
+Setelah kami sampai dirumah dan membuka kotak pizza, ada 3 potongan pizza yang digigit dan bentuknya tidak beraturan.
+Karena kamu dan teman-temanmu orangnya perhitungan, kamu ingin menghitung berapa panjang potongan pizza yang sudah dimakan.
+Masukkan panjang potongan pizza sebanyak 3 kali.
+Potongan pizza yang dimakan adalah rata-rata dari jumlah panjang 3 potongan pizza.
